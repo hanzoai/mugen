@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="mugen" width="880"></p>
+
 # AudioCraft
 ![docs badge](https://github.com/facebookresearch/audiocraft/workflows/audiocraft_docs/badge.svg)
 ![linter badge](https://github.com/facebookresearch/audiocraft/workflows/audiocraft_linter/badge.svg)
