@@ -1,6 +1,5 @@
 <p align="center"><img src=".github/hero.svg" alt="mugen" width="880"></p>
 
-> Forked from [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) (MIT).
 
 # AudioCraft
 ![docs badge](https://github.com/facebookresearch/audiocraft/workflows/audiocraft_docs/badge.svg)
